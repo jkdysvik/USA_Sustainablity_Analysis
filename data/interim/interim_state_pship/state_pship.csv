@@ -1,0 +1,63 @@
+,STATE,"Total
+Seats","Total
+Senate","Senate
+Dem.","Senate
+Rep.","Senate
+other","Total
+House","House
+Dem.","House
+Rep.","House
+other","Leg.
+Control","Gov.
+Party","State
+Control"
+0,Alabama,140,35,8.0,27.0,,105,28.0,73.0,4v,Rep,Rep,Rep
+1,Alaska,60,20,7.0,13.0,,40,15.0,21.0,4,Rep,Rep,Rep
+2,Arizona,90,30,14.0,16.0,,60,29.0,31.0,,Rep,Rep,Rep
+3,Arkansas,135,35,7.0,27.0,1,100,22.0,78.0,,Rep,Rep,Rep
+4,California,120,40,31.0,9.0,,80,58.0,19.0,"1, 2v",Dem,Dem,Dem
+5,Colorado,100,35,20.0,15.0,,65,41.0,24.0,,Dem,Dem,Dem
+6,Connecticut,187,36,23.0,13.0,,151,97.0,54.0,,Dem,Dem,Dem
+7,Delaware,62,21,14.0,7.0,,41,26.0,15.0,,Dem,Dem,Dem
+8,Florida,160,40,16.0,24.0,,120,42.0,76.0,2v,Rep,Rep,Rep
+9,Georgia,236,56,22.0,34.0,,180,77.0,103.0,,Rep,Rep,Rep
+10,Hawaii,76,25,24.0,1.0,,51,47.0,4.0,,Dem,Dem,Dem
+11,Idaho,105,35,7.0,28.0,,70,12.0,58.0,,Rep,Rep,Rep
+12,Illinois,177,59,41.0,18.0,,118,73.0,45.0,,Dem,Dem,Dem
+13,Indiana,150,50,11.0,39.0,,100,29.0,71.0,,Rep,Rep,Rep
+14,Iowa,150,50,18.0,32.0,,100,40.0,60.0,,Rep,Rep,Rep
+15,Kansas,165,40,11.0,29.0,,125,39.0,86.0,,Rep,Dem,Divided
+16,Kentucky,138,38,8.0,30.0,,100,25.0,75.0,,Rep,Dem,Divided
+17,Louisiana,144,39,11.0,27.0,1v,105,34.0,68.0,3,Rep,Dem,Divided
+18,Maine,186,35,22.0,13.0,,151,79.0,64.0,"3, 5v",Dem,Dem,Dem
+19,Maryland,188,47,32.0,15.0,,141,99.0,42.0,,Dem,Rep,Divided
+20,Massachusetts,200,40,37.0,3.0,,160,126.0,28.0,"1, 5v",Dem,Rep,Divided
+21,Michigan,148,38,16.0,22.0,,110,53.0,56.0,1v,Rep,Dem,Divided
+22,Minnesota,201,67,31.0,34.0,2,134,69.0,64.0,1,Divided,Dem,Divided
+23,Mississippi,174,52,16.0,36.0,,122,43.0,77.0,2,Rep,Rep,Rep
+24,Missouri,197,34,10.0,24.0,,163,48.0,108.0,7v,Rep,Rep,Rep
+25,Montana,150,50,19.0,31.0,,100,33.0,67.0,,Rep,Rep,Rep
+26,Nebraska,49,49,,,49,eral - nonpartisan,,,,,Rep,
+27,Nevada,63,21,11.0,9.0,1v,42,25.0,16.0,1v,Dem,Dem,Dem
+28,New Hampshire,424,24,10.0,13.0,1v,400,182.0,206.0,"1, 11v",Rep,Rep,Rep
+29,New Jersey,120,40,24.0,16.0,,80,46.0,34.0,,Dem,Dem,Dem
+30,New Mexico,112,42,26.0,15.0,1,70,45.0,24.0,1,Dem,Dem,Dem
+31,New York,213,63,43.0,20.0,,150,106.0,43.0,1,Dem,Dem,Dem
+32,North Carolina,170,50,22.0,28.0,,120,51.0,69.0,,Rep,Dem,Divided
+33,North Dakota,141,47,7.0,39.0,1v,94,14.0,80.0,,Rep,Rep,Rep
+34,Ohio,132,33,8.0,25.0,,99,35.0,64.0,,Rep,Rep,Rep
+35,Oklahoma,149,48,9.0,39.0,,101,18.0,82.0,1v,Rep,Rep,Rep
+36,Oregon,90,30,18.0,11.0,1,60,37.0,23.0,,Dem,Dem,Dem
+37,Pennsylvania,253,50,21.0,28.0,1,203,89.0,113.0,1v,Rep,Dem,Divided
+38,Rhode Island,113,38,33.0,5.0,,75,65.0,10.0,,Dem,Dem,Dem
+39,South Carolina,170,46,16.0,30.0,,124,43.0,81.0,,Rep,Rep,Rep
+40,South Dakota,105,35,3.0,32.0,,70,8.0,62.0,,Rep,Rep,Rep
+41,Tennessee,132,33,6.0,27.0,,99,24.0,73.0,"1, 1v",Rep,Rep,Rep
+42,Texas,181,31,13.0,18.0,,150,65.0,84.0,1,Rep,Rep,Rep
+43,Utah,104,29,6.0,23.0,,75,17.0,58.0,,Rep,Rep,Rep
+44,Vermont,180,30,21.0,7.0,2,150,92.0,46.0,12,Dem,Rep,Divided
+45,Virginia,140,40,21.0,19.0,,100,48.0,52.0,,Divided,Rep,Divided
+46,Washington,147,49,29.0,20.0,,98,57.0,41.0,,Dem,Dem,Dem
+47,West Virginia,134,34,11.0,23.0,,100,22.0,78.0,,Rep,Rep,Rep
+48,Wisconsin,132,33,12.0,21.0,,99,38.0,58.0,3v,Rep,Dem,Divided
+49,Wyoming,90,30,2.0,28.0,,,7.0,51.0,2,Rep,Rep,Rep
